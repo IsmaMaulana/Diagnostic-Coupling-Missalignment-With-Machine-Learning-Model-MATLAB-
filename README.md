@@ -3,7 +3,7 @@
 <h1>KNN ALGORITHM</h1>
 
 <h2>Description</h2>
-Mengembangkan sistem Condition-Based Maintenance (CBM) berbasis Machine Learning untuk mendiagnosis coupling misalignment pada mesin rotary menggunakan sinyal getaran. Penelitian ini bertujuan mengurangi downtime dan biaya perawatan dengan deteksi kerusakan dini
+Developing a Condition-Based Maintenance (CBM) system based on Machine Learning to diagnose coupling misalignment in rotary machines using vibration signals. This research aims to reduce downtime and maintenance costs through early fault detection with KNN Algorithm and Distence Evaluation Technique for feature Selection
 <br />
 
 <h2>Toolbox and Utilities Used</h2>
@@ -17,33 +17,20 @@ Mengembangkan sistem Condition-Based Maintenance (CBM) berbasis Machine Learning
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Comparison of Accuracy Results of the DET + KNN Method in Angular Misalignment Radial Condition: <br/>
+<img src="https://i.imgur.com/F7CpShH.png" height="80%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Comparison of Accuracy Results of the DET + KNN Method in Angular Misalignment Axial Condition:  <br/>
+<img src="https://i.imgur.com/LIwkjpN.png" height="80%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Comparison of Accuracy Results of the DET + KNN Method in Parallel Misalignment Radial Condition: <br/>
+<img src="https://i.imgur.com/1cVCPzE.png" height="80%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Comparison of Accuracy Results of the DET + KNN Method in Parallel Misalignment Axial Condition: <br/>
+<img src="https://i.imgur.com/wuLJ9uH.png" height="80%" width="50%" alt="Disk Sanitization Steps"/>
 
 <!--
  ```diff
