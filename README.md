@@ -1,6 +1,6 @@
 # Misalignment Diagnosis Using Machine Learning ⚙️📊
 
-<h1>MCondition-Based Maintenance for Rotating Machinery Using K-Nearest Neighbor (KNN)</h1>
+<h1>Condition-Based Maintenance for Rotating Machinery Using K-Nearest Neighbor (KNN)</h1>
 
 <h2>Project Overview</h2>
 This project focuses on diagnosing coupling misalignment in rotating machinery using vibration signal analysis and machine learning (K-Nearest Neighbor - KNN). By implementing Condition-Based Maintenance (CBM), the system enables early fault detection, minimizing downtime and preventing severe mechanical failures. The approach integrates signal processing techniques and statistical feature extraction to improve classification accuracy.
